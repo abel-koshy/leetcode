@@ -6,7 +6,6 @@ fs=0
 ns=0
 sp=0
 cp=0
-
 sum=0
 while(sp<len(arr)):
     while (cp<len(arr)):
@@ -23,7 +22,4 @@ while(sp<len(arr)):
     sp=sp+1
     cp=sp
     newarr=[]
-print(finalarr,fs)    
-        
-        
-    
+print(finalarr,fs)
