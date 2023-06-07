@@ -6,6 +6,7 @@ fs=0
 ns=0
 sp=0
 cp=0
+
 sum=0
 while(sp<len(arr)):
     while (cp<len(arr)):
